@@ -1,2 +1,1 @@
-# alx-low_level_programming
- This is my first repository as a full-stack engineer
+this my repo for alx projects
